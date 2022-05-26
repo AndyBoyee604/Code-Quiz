@@ -16,6 +16,7 @@ JS
 
 ## Source Referenced
 [Google](https://www.google.com/) **|**
-[MDN Web Docs](https://developer.mozilla.org/en-US/)
+[MDN Web Docs](https://developer.mozilla.org/en-US/) **|**
+[Tutorialspoint](https://www.tutorialspoint.com/index.htm) **|**
 
 ## Good Luck Testing!
