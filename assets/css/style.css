@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #c2ddff;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 8px;
+}
+
+p {
+  font-size: x-large;
+  margin: 8px;
+}
+
+/* Button style */
+.btn {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgb(0, 0, 175);
+}
+
+.btn:hover {
+  background-color: rgb(27, 27, 253);
+}
+
+.btn:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+    inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
