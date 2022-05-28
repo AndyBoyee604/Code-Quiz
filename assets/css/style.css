@@ -33,12 +33,11 @@ header h3 {
 h1 {
   font-size: 40px;
   font-weight: bold;
-  margin: 8px;
+  margin: 0;
 }
 
 p {
   font-size: x-large;
-  margin: 8px;
 }
 
 /* Button style */

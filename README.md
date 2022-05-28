@@ -14,9 +14,10 @@ JS
 ## Usage
 ![alt text]()
 
-## Source Referenced
-[Google](https://www.google.com/) **|**
-[MDN Web Docs](https://developer.mozilla.org/en-US/) **|**
+## Sources Referenced
+[Google](https://www.google.com) **|**
+[MDN Web Docs](https://developer.mozilla.org/en-US) **|**
 [Tutorialspoint](https://www.tutorialspoint.com/index.htm) **|**
+[w3 Schools](https://www.w3schools.com)
 
 ## Good Luck Testing!
