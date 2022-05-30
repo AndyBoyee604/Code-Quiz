@@ -20,7 +20,7 @@
     <h3 class="timer">TIMER:00</h3>
   </header>
 
-  <h1>Coding Quiz Challenge</h1>
+  <h1 class="title">Coding Quiz Challenge</h1>
   <div class="head">
     <p>Try to answer the following code-related questions within the time limit. Keep in mind that incorrect answers
       will penalize your score time by 10 seconds!</p>
@@ -52,12 +52,35 @@
         </div>
       </div>
     </div>
-
-
-    
   </main>
 
+  <!--correct answers-->
+  <section>
+    <div id="answers">
+      <label id="right"></label>
+      <label id="wrong"></label>
+    </div>
+  </section>
 
+  <!--Player info-->
+  <section class="HsSection">
+    <div>
+      <form>
+        <label for="initial">Enter Name</label><br>
+        <input id="player" type="text" maxlength="15" /><br>
+        <button id="submit">Submit</button>
+      </form>
+    </div>
+  </section>
+<!--High Score-->
+<section class="scoreSection" id="scoreBoard">
+  <h1>Top Players!</h1>
+<div id="playerScore"></div>
+<button class="btn">Play Again</button>
+<button class="btn">Clear Scores</button>
+</section>
+
+  <!--js file-->
   <script src="./assets/js/script.js"></script>
   <!--bootstrap js-->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
